@@ -23,7 +23,7 @@
                         <li class="nav-item"><a class="nav-link" href="#features">Features</a></li>
                         <li class="nav-item"><a class="nav-link" href="#portfolio">Portfolio</a></li>
                         <li class="nav-item"><a class="nav-link" href="#resume">Resume</a></li>
-                        <li class="nav-item current"><a class="nav-link" href="#clients">Clients</a></li>
+                        <li class="nav-item current"><a class="nav-link" href="#clients">Clients Sadam</a></li>
                         {{-- <li class="nav-item"><a class="nav-link" href="#pricing">Pricing</a></li>
                         <li class="nav-item"><a class="nav-link" href="#blog">blog</a></li>
                         <li class="nav-item"><a class="nav-link" href="#contacts">Contact</a></li> --}}
